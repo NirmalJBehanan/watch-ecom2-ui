@@ -1,0 +1,151 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Realme narzo",
+      "price": 1200,
+      "category": "Watch",
+      "image": "https://images.pexels.com/photos/29730990/pexels-photo-29730990.jpeg?_gl=1*1ljkoov*_ga*ODM1MDE4NjkxLjE3NDA4OTE2MzU.*_ga_8JE65Q40S6*czE3Nzg5MzAyOTkkbzckZzEkdDE3Nzg5MzAzNDckajEyJGwwJGgw",
+      "status": false,
+      "rating": {
+        "rate": 4.7,
+        "count": 154
+      }
+    },
+    {
+      "id": 2,
+      "title": "Xiomi T3",
+      "price": 1000,
+      "category": "Watch",
+      "image": "https://images.pexels.com/photos/11700618/pexels-photo-11700618.jpeg?_gl=1*jxd3m3*_ga*ODM1MDE4NjkxLjE3NDA4OTE2MzU.*_ga_8JE65Q40S6*czE3Nzg5MzAyOTkkbzckZzEkdDE3Nzg5MzA0NTQkajIwJGwwJGgw",
+      "status": false,
+      "rating": {
+        "rate": 3.5,
+        "count": 89
+      }
+    },
+    {
+      "id": 3,
+      "title": "XUV100",
+      "price": 900,
+      "category": "Watch",
+      "image": "https://images.pexels.com/photos/31406903/pexels-photo-31406903.jpeg?_gl=1*p91xxw*_ga*ODM1MDE4NjkxLjE3NDA4OTE2MzU.*_ga_8JE65Q40S6*czE3Nzg5MzAyOTkkbzckZzEkdDE3Nzg5MzA1NTUkajQwJGwwJGgw",
+      "status": false,
+      "rating": {
+        "rate": 4.2,
+        "count": 276
+      }
+    },
+    {
+      "id": 4,
+      "title": "Realme WWE",
+      "price": 1500,
+      "category": "Watch",
+      "image": "https://images.pexels.com/photos/12877873/pexels-photo-12877873.jpeg?_gl=1*bqug0r*_ga*ODM1MDE4NjkxLjE3NDA4OTE2MzU.*_ga_8JE65Q40S6*czE3Nzg5MzAyOTkkbzckZzEkdDE3Nzg5MzA2MDUkajU5JGwwJGgw",
+      "status": false,
+      "rating": {
+        "rate": 2.8,
+        "count": 47
+      }
+    },
+    {
+      "id": 5,
+      "title": "Xiomi T20 World",
+      "price": 1300,
+      "category": "Watch",
+      "image": "https://images.pexels.com/photos/14691504/pexels-photo-14691504.jpeg?_gl=1*1dgpyeg*_ga*ODM1MDE4NjkxLjE3NDA4OTE2MzU.*_ga_8JE65Q40S6*czE3Nzg5MzAyOTkkbzckZzEkdDE3Nzg5MzA2NDckajE3JGwwJGgw",
+      "status": false,
+      "rating": {
+        "rate": 4.9,
+        "count": 632
+      }
+    },
+    {
+      "id": 6,
+      "title": "Realme Japan",
+      "price": 1300,
+      "category": "Watch",
+      "image": "https://images.pexels.com/photos/36659010/pexels-photo-36659010.jpeg?_gl=1*1ynaq6k*_ga*ODM1MDE4NjkxLjE3NDA4OTE2MzU.*_ga_8JE65Q40S6*czE3Nzg5MzAyOTkkbzckZzEkdDE3Nzg5MzA3NDMkajUxJGwwJGgw",
+      "status": false,
+      "rating": {
+        "rate": 3.9,
+        "count": 118
+      }
+    },
+    {
+      "id": 7,
+      "title": "Xiomi Rado",
+      "price": 1000,
+      "category": "Watch",
+      "image": "https://images.pexels.com/photos/2783873/pexels-photo-2783873.jpeg",
+      "status": false,
+      "rating": {
+        "rate": 4.4,
+        "count": 205
+      }
+    },
+    {
+      "id": 8,
+      "title": "prado michel",
+      "price": 400,
+      "category": "Watch",
+      "image": "https://images.pexels.com/photos/27531462/pexels-photo-27531462.jpeg",
+      "status": false,
+      "rating": {
+        "rate": 2.6,
+        "count": 39
+      }
+    },
+    {
+      "id": 9,
+      "title": "platinam c100",
+      "price": 280,
+      "category": "Watch",
+      "image": "https://images.pexels.com/photos/16093243/pexels-photo-16093243.jpeg",
+      "status": false,
+      "rating": {
+        "rate": 4.1,
+        "count": 321
+      }
+    },
+    {
+      "id": 10,
+      "title": "prado crocs10",
+      "price": 1000,
+      "category": "Watch",
+      "image": "https://images.pexels.com/photos/13695978/pexels-photo-13695978.jpeg",
+      "status": false,
+      "rating": {
+        "rate": 3.7,
+        "count": 142
+      }
+    },
+    {
+      "id": 11,
+      "title": "Realme Japan c10",
+      "price": 1000,
+      "category": "Watch",
+      "image": "https://images.pexels.com/photos/8711225/pexels-photo-8711225.jpeg",
+      "status": false,
+      "rating": {
+        "rate": 4.8,
+        "count": 517
+      }
+    },
+    {
+      "id": 12,
+      "title": "iqoo z10",
+      "price": 500,
+      "category": "Watch",
+      "image": "https://images.pexels.com/photos/5058216/pexels-photo-5058216.jpeg",
+      "status": false,
+      "rating": {
+        "rate": 3.2,
+        "count": 74
+      }
+    }
+  ]
+}
+
+
+
