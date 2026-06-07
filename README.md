@@ -1,16 +1,129 @@
-# React + Vite
+# ⌚ Watch Mart - React E-Commerce UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Watch Mart is a modern and responsive e-commerce web application built with React. Users can browse watches, add products to their cart, manage quantities, and view the total cart value through an intuitive shopping experience.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🌐 Live Site: https://watch-ecom2-ui.netlify.app/
 
-## React Compiler
+## 📂 GitHub Repository
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+💻 Source Code: https://github.com/NirmalJBehanan/watch-ecom2-ui
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+* 🛍️ Browse watch products
+* 🛒 Add and remove products from cart
+* 🔢 Update product quantity directly from cart
+* 💰 Automatic total price calculation
+* 📦 Empty cart illustration
+* ⚡ React Context API for global state management
+* 📱 Fully responsive design for mobile, tablet, and desktop
+* 🎨 Clean and modern user interface
+
+---
+
+## 🛠️ Technologies Used
+
+* React.js
+* React Router DOM
+* Context API
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Font Awesome
+
+---
+
+## 📁 Project Structure
+
+```text
+src/
+│
+├── components/
+│   ├── Banner.jsx
+│   ├── Cart.jsx
+│   ├── Header.jsx
+│   ├── Home.jsx
+│   ├── Mycontext.jsx
+│   └── ProductCard.jsx
+│
+├── data/
+│   └── productsData.json
+│
+├── assets/
+│   └── photos/
+│
+├── App.jsx
+└── main.jsx
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/NirmalJBehanan/watch-ecom2-ui.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd watch-ecom2-ui
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📸 Screens
+
+* Home Page
+* Product Listing
+* Shopping Cart
+* Quantity Management
+* Empty Cart View
+* Mobile Responsive Layout
+
+---
+
+## 🎯 Learning Outcomes
+
+This project helped practice:
+
+* React Components
+* Props
+* State Management
+* Context API
+* React Router
+* Conditional Rendering
+* Array Methods (`map`, `filter`, `find`)
+* Responsive Web Design
+
+---
+
+## 👨‍💻 Author
+
+**Nirmal J Behanan**
+
+GitHub: https://github.com/NirmalJBehanan
+
+---
+
+## 📄 License
+
+This project is created for learning and portfolio purposes.
